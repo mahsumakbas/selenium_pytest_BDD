@@ -1,0 +1,6 @@
+selenium
+pytest
+pytest-html
+pytest-rerunfailures
+pytest-xdist
+pytest-bdd
